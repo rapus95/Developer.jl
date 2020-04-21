@@ -1,0 +1,10 @@
+name = "Developer"
+uuid = "88b7c4eb-27a2-48b2-824c-7193d8db0563"
+authors = ["rapus95 <neckartiger@gmx.de>"]
+version = "0.1.0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+PkgDev = "149e707d-584d-56d3-88ec-740c18e106ff"
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
+ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
